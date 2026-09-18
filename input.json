@@ -1,0 +1,6 @@
+{
+  "sortBy": "reward",
+  "minRewardPerThousand": 2,
+  "minBudgetLeftUsd": 1000,
+  "maxItems": 100
+}
